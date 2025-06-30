@@ -4,6 +4,10 @@ This Bash script provides a robust and user-friendly way to convert your entire 
 
 ---
 
+![screenshot](https://github.com/Rinka-Sei/flac2mp3.sh/blob/c2a14454d1b59d16dc036cc8d17acc94c8d72a89/example.jpeg)
+
+---
+
 ## Features
 
 * **Recursive Conversion:** Converts all `.flac` files found within a specified directory and its subdirectories.
